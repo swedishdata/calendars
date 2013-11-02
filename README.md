@@ -6,4 +6,4 @@ Official dates and such.
 
 ### name-days.csv
 
-offical name days as defined by the Swedish Academy (2013).
+Offical name days as defined by the Swedish Academy. Source: Wikipedia (oct 2013).
